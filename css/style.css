@@ -2,8 +2,8 @@
 :root {
   --primary: #00B87B;
   --secondary: #00B87B;
-  --light: #F2F2F2;
-  --dark: #2C3E50;
+  --light: #00B87B;
+  --dark: #00B87B;
 }
 
 #spinner {
