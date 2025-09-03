@@ -1,13 +1,13 @@
 /********** Template CSS *******#00B87B***#314355*#00B87B  #2C3E50**/
 /* === NEW background color === */
 body {
-  background: #006464;   /* ← change to any color you want */
+  background: #094747;   /* ← change to any color you want */
 }
 :root {
    --primary: #00B87B;
    --secondary: #314355;
    --light: #FFFFFF;
-   --dark: #006464;
+   --dark: #094747;
  
 }
 
